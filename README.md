@@ -1,4 +1,4 @@
 # Página de cadastro
 Página de cadastro com HTML e CSS!
 Versão Web
-![facebook](https://user-images.githubusercontent.com/87820972/130707495-643d4cc1-3b7d-4be4-b6ca-a733ea75c890.png)
+![paginaweb](https://user-images.githubusercontent.com/87820972/130707564-cb5324de-34c9-445f-ba14-f486eb56c3a2.PNG)
